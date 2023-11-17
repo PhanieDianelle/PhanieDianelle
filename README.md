@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Phanie Dianelle Negho
 - 👀 I’m interested in machine learning and  Data analysis
-- 🌱 I’m currently learning some machine learning algorithms especially in the field of computer vision like image segmentation
-- 💞️ I’m looking to collaborate on any project related computer vision, generative AI, multimidal learning
+- 🌱 I’m currently learning some machine learning algorithms especially in the field of computer vision like image segmentation, object detection, human pose estimation.
+- 💞️ I’m looking to collaborate on any project related computer vision, generative AI, multimidal learning.
 - 📫 You can reach out to me by email: phanie.neghodianelle@gmail.com
 
 <!---
